@@ -1,40 +1,21 @@
 {
   "project_info": {
-    "project_number": "891781436170",
-    "project_id": "famnme-notifications-dev",
-    "storage_bucket": "famnme-notifications-dev.firebasestorage.app"
+    "project_number": "73941617920",
+    "project_id": "famnme-51a83",
+    "storage_bucket": "famnme-51a83.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:891781436170:android:ad58f2e31082bc016d20f3",
+        "mobilesdk_app_id": "1:73941617920:android:cdacaeec24abe367be37e5",
         "android_client_info": {
-          "package_name": "com.example.fcm_test_app"
+          "package_name": "com.sbl.familyaconnect"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAdm2waYfGAjaCAR_l2pny5yiAsWycOfUo"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:891781436170:android:4bd85d94855181a96d20f3",
-        "android_client_info": {
-          "package_name": "com.example.myapp"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAdm2waYfGAjaCAR_l2pny5yiAsWycOfUo"
+          "current_key": "AIzaSyAsvSJ5YoSdYUxmpZNMAoim2ACDVXMF02E"
         }
       ],
       "services": {
